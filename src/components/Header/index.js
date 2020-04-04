@@ -1,11 +1,12 @@
 import React from 'react';
+import ProfilePicture from "../../images/profile_picture.png";
 
 export default function Header(props) {
   const { nome, ocupacao, resumo, perfilProfissional } = props.conteudo
   return (
     <>
       <div className="perfil">
-        <img src="https://www.w3schools.com/w3images/avatar6.png" alt="Perfil" />
+        <img src={ProfilePicture} alt="Perfil" />
       </div>
       <div className="biografia">
         <h1>

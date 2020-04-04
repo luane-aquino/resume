@@ -7,51 +7,64 @@ export default class Resume extends Component {
   state = {
     infos: [
       {
-        nome: 'Jeniffer Prof',
-        ocupacao: 'Dev e Teacher',
-        resumo: '20 e tantos, casada e com 2 gatos (Neo e Farofa)',
-        perfilProfissional: 'Desenvolvo até altas horas, toco violão meia boca e nunca pude ter uma guitarra. Também gosto de ensinar tudo que sei.',
+        nome: 'Luane Aquino',
+        ocupacao: 'nodejs | womenCanCode react',
+        resumo: 'nodejs, api, react, javascript, html, css',
+        perfilProfissional: 'Com interesse em tecnologias web e participando do womenCanCode react',
         contatos: [
           {
             id: 1,
             tipo: 'telefone',
-            contato: '19 0000-0000'
+            contato: '66 99716-9562'
           },
           {
             id: 2,
             tipo: 'email',
-            contato: 'nome@dev.com'
+            contato: 'luane.aquino.br@gmail.com'
           }
         ],
         educacao: [
           {
             id: 1,
-            instituicao: 'EMEF',
-            curso: 'Ensino basico'
-          },
-          {
-            id: 2,
-            instituicao: 'ETEC',
-            curso: 'Como ser dev'
+            instituicao: 'Universidade do Estado de Mato Grosso',
+            curso: 'Ciência da computação'
           }
         ],
         experiencia: [
           {
             id: 1,
-            cargo: 'Front end',
-            periodo: 'Agosto 2019',
-            empresa: 'NASA',
-            local: 'Nova York',
-            conteudo: 'Fazia nada e ganhava bem',
-            atual: true
+            cargo: 'Instrutora de informática aplicada',
+            periodo: 'Out/Nov 2019',
+            empresa: 'SENAI',
+            local: 'Tangará da serra-MT',
+            conteudo: 'Ministrar a disciplina de informática aplicada no curso de assistente administrativo.',
+            atual: false
           },
           {
             id: 2,
-            cargo: 'Full stack',
-            periodo: 'Agosto 2018 - Agosto 2019',
-            empresa: 'CIA',
-            local: 'Boston',
-            conteudo: 'Fazia nada e ganhava mal',
+            cargo: 'Estágio supervisionado',
+            periodo: 'Jul 2017 - Jan 2018',
+            empresa: 'UNEMAT',
+            local: 'Barra do bugres-MT',
+            conteudo: 'Desenvolvimento de aplicativo android utilizando linguagem java',
+            atual: false
+          },
+          {
+            id: 3,
+            cargo: 'Agente de pesquisas e mapeamento',
+            periodo: 'Jan 2017 - Dez 2019',
+            empresa: 'IBGE',
+            local: 'Barra do bugres-MT',
+            conteudo: 'Visitação a domicílios e estabelecimentos de qualquer natureza de acordo com o tema a ser pesquisado, visando à geração de estatísticas.',
+            atual: false
+          },
+          {
+            id: 4,
+            cargo: 'Suporte técnico',
+            periodo: 'Jan 2016 - Out 2016',
+            empresa: 'Solução Sistemas',
+            local: 'Tangará da serra-MT',
+            conteudo: 'Atendimento aos chamados de clientes. Garantir a atualização, disponibilidade e estabilidade do software.',
             atual: false
           }
         ]

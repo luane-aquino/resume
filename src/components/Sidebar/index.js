@@ -15,13 +15,13 @@ export default function Sidebar(props) {
             <Contact conteudo={item} key={item.id} />
           ))}
         </div>
+      </div>
 
-        <div className="sidebar">
-          <h3>Educação</h3>
-          {educacao.map(item => (
-            <Education conteudo={item} key={item.id} />
-          ))}
-        </div>
+      <div className="sidebar">
+        <h3>Educação</h3>
+        {educacao.map(item => (
+          <Education conteudo={item} key={item.id} />
+        ))}
       </div>
     </aside>
   );

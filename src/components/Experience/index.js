@@ -6,12 +6,12 @@ export default class Experience extends Component {
     arrayDeExperiencias: this.props.experiencia
   }
 
-  showCurrentJob = () => {
-    this.setState({
-      // atualizo o meu state com os dados filtrados
-      arrayDeExperiencias: this.state.arrayDeExperiencias.filter(item => item.atual)
-    })
-  }
+  // showCurrentJob = () => {
+  //   this.setState({
+  //     // atualizo o meu state com os dados filtrados
+  //     arrayDeExperiencias: this.state.arrayDeExperiencias.filter(item => item.atual)
+  //   })
+  // }
 
   render() {
     return (
@@ -33,7 +33,7 @@ export default class Experience extends Component {
           </div>
         ))}
 
-        <button onClick={this.showCurrentJob}>Mostrar atual</button>
+        {/*  <button onClick={this.showCurrentJob}>Mostrar atual</button> */}
       </div>
     );
   }
