@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/women-can-code-react-resume/static/css/main.74e848ea.chunk.css",
+    "main.js": "/women-can-code-react-resume/static/js/main.53b57055.chunk.js",
+    "main.js.map": "/women-can-code-react-resume/static/js/main.53b57055.chunk.js.map",
+    "runtime-main.js": "/women-can-code-react-resume/static/js/runtime-main.92dce63a.js",
+    "runtime-main.js.map": "/women-can-code-react-resume/static/js/runtime-main.92dce63a.js.map",
+    "static/js/2.c26b0c68.chunk.js": "/women-can-code-react-resume/static/js/2.c26b0c68.chunk.js",
+    "static/js/2.c26b0c68.chunk.js.map": "/women-can-code-react-resume/static/js/2.c26b0c68.chunk.js.map",
+    "index.html": "/women-can-code-react-resume/index.html",
+    "precache-manifest.6cf7dd7ddc1bfa893c1c769435df3d68.js": "/women-can-code-react-resume/precache-manifest.6cf7dd7ddc1bfa893c1c769435df3d68.js",
+    "service-worker.js": "/women-can-code-react-resume/service-worker.js",
+    "static/css/main.74e848ea.chunk.css.map": "/women-can-code-react-resume/static/css/main.74e848ea.chunk.css.map",
+    "static/js/2.c26b0c68.chunk.js.LICENSE.txt": "/women-can-code-react-resume/static/js/2.c26b0c68.chunk.js.LICENSE.txt",
+    "static/media/profile_picture.png": "/women-can-code-react-resume/static/media/profile_picture.e7bf5bf0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92dce63a.js",
+    "static/js/2.c26b0c68.chunk.js",
+    "static/css/main.74e848ea.chunk.css",
+    "static/js/main.53b57055.chunk.js"
+  ]
+}
