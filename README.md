@@ -1,8 +1,10 @@
-Meu curriculo react app. Atividade desenvolvida no womenCanCode/Venturus em 2020.
+My resume in React. Demo link: https://luane-aquino.github.io/resume
 
-Demo link: https://luane-aquino.github.io/meu-curriculo/
+## Commands to run this project locally
 
-## Comandos para executar o projeto localmente
+`git clone git@github.com:luane-aquino/resume.git`
+
+`cd resume`
 
 `npm install`
 
