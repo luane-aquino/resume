@@ -1,6 +1,6 @@
-Curriculo react app. Atividade desenvolvida no womenCanCode/Venturus em 2020.
+Meu curriculo react app. Atividade desenvolvida no womenCanCode/Venturus em 2020.
 
-Demo link: https://luane-aquino.github.io/women-can-code-react-resume/
+Demo link: https://luane-aquino.github.io/meu-curriculo/
 
 ## Comandos para executar o projeto localmente
 
