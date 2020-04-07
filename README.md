@@ -4,8 +4,6 @@ Demo link: https://luane-aquino.github.io/meu-curriculo/
 
 ## Comandos para executar o projeto localmente
 
-In the project directory, run:
-
 `npm install`
 
 `npm start`
