@@ -8,9 +8,9 @@ export default class Resume extends Component {
     infos: [
       {
         nome: 'Luane Aquino',
-        ocupacao: 'nodejs | womenCanCode react',
-        resumo: 'nodejs, api, react, javascript, html, css',
-        perfilProfissional: 'Com interesse em tecnologias web e participando do womenCanCode react',
+        ocupacao: 'Node.js | React',
+        resumo: 'Node.js, API, React, Javascript, HTML, CSS',
+        perfilProfissional: 'Formada em ciência da computação, desenvolvendo projetos pessoais em Node.js e React',
         contatos: [
           {
             id: 1,
