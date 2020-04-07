@@ -1,6 +1,6 @@
 {
-  "homepage": "https://luane-aquino.github.io/curriculo",
-  "name": "meu-curriculo-react-app",
+  "homepage": "https://luane-aquino.github.io/resume",
+  "name": "resume-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
